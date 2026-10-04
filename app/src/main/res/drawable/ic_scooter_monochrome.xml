@@ -1,0 +1,172 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- REAR WHEEL: High-grip tire & rim -->
+    <path
+        android:fillColor="#FF000000"
+        android:fillType="evenOdd"
+        android:pathData="M 34,76 m -7.5,0 a 7.5,7.5 0 1,1 15,0 a 7.5,7.5 0 1,1 -15,0 M 34,76 m -5,0 a 5,5 0 1,1 10,0 a 5,5 0 1,1 -10,0" />
+        
+    <!-- REAR DISC BRAKE & CALIPER -->
+    <path
+        android:strokeColor="#FF000000"
+        android:strokeWidth="0.8"
+        android:pathData="M 34,76 m -3.5,0 a 3.5,3.5 0 1,1 7,0 a 3.5,3.5 0 1,1 -7,0" />
+    <path
+        android:fillColor="#FF000000"
+        android:pathData="M 34,76 m -1,0 a 1,1 0 1,1 2,0 a 1,1 0 1,1 -2,0" />
+
+    <!-- FRONT WHEEL: High-grip tire & rim -->
+    <path
+        android:fillColor="#FF000000"
+        android:fillType="evenOdd"
+        android:pathData="M 74,76 m -7.5,0 a 7.5,7.5 0 1,1 15,0 a 7.5,7.5 0 1,1 -15,0 M 74,76 m -5,0 a 5,5 0 1,1 10,0 a 5,5 0 1,1 -10,0" />
+        
+    <!-- FRONT MOTOR HUB: Slotted detailing -->
+    <path
+        android:fillColor="#FF000000"
+        android:fillType="evenOdd"
+        android:pathData="M 74,76 m -3.5,0 a 3.5,3.5 0 1,1 7,0 a 3.5,3.5 0 1,1 -7,0 M 74,76 m -2,0 a 2,2 0 1,1 4,0 a 2,2 0 1,1 -4,0" />
+    <path
+        android:strokeColor="#FF000000"
+        android:strokeWidth="1"
+        android:pathData="M 74,76 L 70.5,76 M 74,76 L 77.5,76 M 74,76 L 74,72.5 M 74,76 L 74,79.5" />
+
+    <!-- REAR SUSPENSION: Heavy-duty swingarm and coilover shock -->
+    <path
+        android:strokeColor="#FF000000"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M 34,76 L 42,67" />
+    <path
+        android:strokeColor="#FF000000"
+        android:strokeWidth="1.2"
+        android:strokeLineJoin="round"
+        android:pathData="M 38,71 L 35,69 L 39,66 L 36,64 L 39,61" />
+
+    <!-- ANGLED REAR FOOTREST -->
+    <path
+        android:strokeColor="#FF000000"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M 38,67 L 34,58 L 41,64" />
+
+    <!-- DECK BASE & KICKSTAND -->
+    <path
+        android:strokeColor="#FF000000"
+        android:strokeWidth="6"
+        android:strokeLineCap="round"
+        android:pathData="M 38,67 L 62,67" />
+    <path
+        android:strokeColor="#FF000000"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M 48,70 L 45,78 L 47,78" />
+
+    <!-- NECK & FOLDING CLAMP MECHANISM -->
+    <path
+        android:strokeColor="#FF000000"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M 59,67 L 68,58" />
+    <path
+        android:fillColor="#FF000000"
+        android:pathData="M 64,57 A 2.5,2.5 0 1,0 69,62 A 2.5,2.5 0 1,0 64,57" />
+    <path
+        android:strokeColor="#FF000000"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:pathData="M 68,61 L 71,64" /> 
+
+    <!-- FRONT FORK TUBE & STEM -->
+    <path
+        android:strokeColor="#FF000000"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:pathData="M 74,76 L 68.5,59" /> 
+    <path
+        android:strokeColor="#FF000000"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:pathData="M 68.5,59 L 65,48" />
+    <path
+        android:strokeColor="#FF000000"
+        android:strokeWidth="3.2"
+        android:strokeLineCap="round"
+        android:pathData="M 65,48 L 59,29" />
+
+    <!-- HEADLIGHT HOUSING -->
+    <path
+        android:fillColor="#FF000000"
+        android:pathData="M 63.5,43 L 67,41 L 68,45 L 63.5,46 Z" />
+
+    <!-- FENDERS & LIGHTS -->
+    <path
+        android:strokeColor="#FF000000"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M 72,67 Q 77,63 82,72" />
+    <path
+        android:fillColor="#FF000000"
+        android:pathData="M 81,71 A 1,1 0 1,1 83,73 A 1,1 0 1,1 81,71" />
+    <path
+        android:strokeColor="#FF000000"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M 36,63 Q 26,63 24,72" />
+    <path
+        android:fillColor="#FF000000"
+        android:pathData="M 23,71 L 26,71 L 25,74 L 22,74 Z" />
+
+    <!-- HANDLEBAR CROSSBAR -->
+    <path
+        android:strokeColor="#FF000000"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:pathData="M 48,29 L 69,29" />
+
+    <!-- ERGONOMIC GRIPS -->
+    <path
+        android:strokeColor="#FF000000"
+        android:strokeWidth="4.5"
+        android:strokeLineCap="round"
+        android:pathData="M 47,29 L 52,29 M 65,29 L 70,29" />
+
+    <!-- BRAKE LEVER (Left) & THUMB THROTTLE (Right) -->
+    <path
+        android:strokeColor="#FF000000"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M 52,29 L 49,33 L 47,33" />
+    <path
+        android:strokeColor="#FF000000"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M 65,29 L 67,32" />
+
+    <!-- DIGITAL DASHBOARD CONSOLE -->
+    <path
+        android:fillColor="#FF000000"
+        android:pathData="M 57.5,29 L 56,22 L 63,22 L 64.5,26 Z" />
+
+    <!-- DUAL BRAKE & ELECTRONICS CABLES ROUTED DOWN STEM -->
+    <path
+        android:strokeColor="#FF000000"
+        android:strokeWidth="1.2"
+        android:strokeLineCap="round"
+        android:pathData="M 52,31 C 50,42 63,45 66,54" />
+    <path
+        android:strokeColor="#FF000000"
+        android:strokeWidth="1"
+        android:strokeLineCap="round"
+        android:pathData="M 59,29 C 55,36 60,40 62.5,45" />
+
+</vector>

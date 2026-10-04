@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Matches SeedBlue40 in ui/theme/Color.kt: keeps the launcher icon in
+         the same M3 palette as the rest of the app. -->
+    <color name="ic_launcher_background">#2E5FA6</color>
+</resources>
