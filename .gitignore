@@ -1,0 +1,15 @@
+﻿# Android / Gradle
+.gradle/
+**/build/
+local.properties
+*.iml
+.idea/
+
+# Release signing - NEVER commit these
+*.jks
+*.keystore
+app/keystore.properties
+
+# OS noise
+.DS_Store
+Thumbs.db
