@@ -1,5 +1,9 @@
 # Escooter Control
 
+> [!IMPORTANT]
+> **New app: [Escooter Next](https://github.com/DevCatSon/EscooterNext).**
+> This repository is archived. The new Flutter app for Android and iOS, active development, and new bug reports live in the Escooter Next repository.
+
 An independent, open-source Android companion app for compatible Vicont-based e-scooters. It uses Jetpack Compose, Material 3, and a BLE protocol implementation derived from interoperability research of the original companion app.
 
 > This project is not affiliated with or endorsed by Vicont or a scooter manufacturer. Hardware support varies by model and firmware. Test controls while the scooter is stationary and follow local rules and manufacturer guidance.
